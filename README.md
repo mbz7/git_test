@@ -1,2 +1,1 @@
-# git_test
-The Odin Project - First Repository Test
+This is Myles's first git project!
